@@ -1,0 +1,9 @@
+2.open properties page
+
+3.click Commercial Building 
+
+4. check Listed By :  it  having  Wrong inputs like : furnishing, semi-furnish, un-furnishing
+
+5. please  change : Owner, Dealer, Seller
+
+6. please add Furnishing column : furnishing, semi-furnish, un-furnishing
